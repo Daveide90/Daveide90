@@ -1,4 +1,4 @@
-<h1 align="center">Daveide90</h1>
+<h1 align="center">DavDev</h1>
 <p align="center"><b>Android apps that keep your data on your phone, designed with AI</b><br>App Android che tengono i dati sul telefono, progettate con l'IA</p>
 
 **English.** I am not a professional software developer: I am an enthusiast, and I design and build Android apps for healthcare workers and for everyday work. I write them with the help of AI tools (Claude, by Anthropic), and I play an active role in their architecture, features, project direction, design and technical review. Every app works offline, with no account, no ads and no tracking. Each one was secure by design, hardened as far as I could and tested with automated attacks by AI in several rounds: the details and the limits are on each page.
