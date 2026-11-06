@@ -35,4 +35,4 @@
 </tr>
 </table>
 
-<sub>Free apps, offered as they are, without warranty. ScadenzApp and Doc Tascabile: PolyForm Noncommercial licence; WoundApp Docs: free for the individual healthcare professional. If an app is useful to you, a ☆ on its page helps. · App gratuite, offerte così come sono, senza garanzie. ScadenzApp e Doc Tascabile: licenza PolyForm Noncommercial; WoundApp Docs: gratuita per il singolo professionista sanitario. Se un'app ti è utile, una ☆ sulla sua pagina aiuta.</sub>
+<sub>Free apps, offered as they are, without warranty. ScadenzApp and WoundApp Docs: free for the individual healthcare professional, who uses them under their own responsibility, not for hospitals, clinics or other organisations; Doc Tascabile: PolyForm Noncommercial licence. If an app is useful to you, a ☆ on its page helps. · App gratuite, offerte così come sono, senza garanzie. ScadenzApp e WoundApp Docs: gratuite per il singolo professionista sanitario, che le usa sotto la propria responsabilità, non per ospedali, cliniche o altre strutture; Doc Tascabile: licenza PolyForm Noncommercial. Se un'app ti è utile, una ☆ sulla sua pagina aiuta.</sub>
